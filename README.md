@@ -60,13 +60,15 @@ plt.axis("off")
 ## Output:
 
 ### Display the input Image
-
+![image](https://github.com/Jaiganesh235/OPENING--AND-CLOSING/assets/118657189/849aef7b-5ef6-4a6c-8577-a287ab1e9c29)
 
 
 ### Display the result of Opening
+![image](https://github.com/Jaiganesh235/OPENING--AND-CLOSING/assets/118657189/67fb73a7-d2e4-47b7-b85a-bcd05c1bec88)
 
 
 ### Display the result of Closing
+![image](https://github.com/Jaiganesh235/OPENING--AND-CLOSING/assets/118657189/3493affd-befe-4981-8321-e4c8d4719d34)
 
 
 
